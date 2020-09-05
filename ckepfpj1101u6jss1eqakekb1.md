@@ -5,8 +5,6 @@ A tale of how we thoughtlessly used a boilerplate with a whole arsenal of depend
 Wait, it's way too long.
 A tale of how all browsers are attributophobes, with a select few standing out.
 
-![edge-man.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1599295973823/eoQTmc8OT.jpeg)
-
 ###  A little history first
 
 A colleague of mine once approached me with a quite fascinating quest: [C3](http://c3js.org/) (a library for drawing charts) demo became almost unresponsive on Edge when we copied it into our AngularJS app. We got kind of afraid that, if our app was unresponsive, then our customer would also be unresponsive to our payment requests.
