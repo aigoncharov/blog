@@ -6,6 +6,8 @@ We will discuss what to do when you want to display all the data at once, but yo
 
 ## 4.2020.08! 4.2020.08! 4.2020.08! Why are we so excited?
 
+> If you are not interested in the new features of 4.2020.08 you can jump straight to [what users want to see and why](#the-widget).
+
 This release stands on 3 pillars:
 
 1. Enhanced UX for developers
