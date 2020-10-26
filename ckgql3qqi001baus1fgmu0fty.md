@@ -47,7 +47,7 @@ To be at least relatively object we will not base our judgment on beautiful or n
     1. [Passport Index](https://www.passportindex.org/byRank.php?f=) by [Arton Capital](https://www.artoncapital.com/). "Capital", kind of, gives us a hint about the commercial nature of the organization. Unfortunately, nothing better.
 9. Science
     1. Let's take ["Share" value from Nature Index](https://www.natureindex.com/country-outputs/generate/All/global/All/score) and divide it by [the population](https://www.census.gov/popclock/world/) in millions. Published by [Nature](https://www.nature.com/). Commercial. If we trust Wikipedia it is extremely [respectable](https://ru.wikipedia.org/wiki/Nature).
-10. Налоги
+10. Taxes
     1. [International Tax Competitiveness Index](https://taxfoundation.org/publications/international-tax-competitiveness-index/) by American [Tax Foundation](https://taxfoundation.org/). Finally, another non-profit! They publish [a financial report](https://files.taxfoundation.org/20200422120938/TaxFoundation_2019AnnualReport1.pdf), but it is still unclear how exactly it is funded.
     2. [All-in average personal income tax rates at average wage by family type](https://stats.oecd.org/index.aspx?DataSetCode=TABLE_I6#) by good old [OECD](http://www.oecd.org/).
 11. Immigration policy
