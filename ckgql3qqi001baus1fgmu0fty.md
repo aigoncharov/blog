@@ -26,9 +26,9 @@ To be at least relatively object we will not base our judgment on beautiful or n
 
 1. Freedom
     1. [Freedom House](https://freedomhouse.org/countries/freedom-world/scores?sort=desc&order=Total%20Score%20and%20Status). Locates in the USA. They promise a rating of political and civil liberties in 210 countries. Founded in [1941](https://freedomhouse.org/about-us/our-history). [Funded, mostly, with US federal grants](https://freedomhouse.org/sites/default/files/2020-02/FINAL_Freedom_House_Financial%20Statements_2018.pdf).
-2. Коррупция
+2. Corruption
     1. [Transparency International Corruption Perceptions Index](https://www.transparency.org/en/cpi/2019/results/table). Located in Berlin, Germany. Transparent, publish [annual budget reports](https://www.transparency.org/en/the-organisation/our-operating-budget). There is [a huge list](https://www.transparency.org/en/the-organisation/who-supports-us) of those, who chip in for the research. 
-3. Экономика
+3. Economy
     1. [Index of Economic Freedom](https://www.heritage.org/index/ranking) by American [Heritage Foundation](https://www.heritage.org/about-heritage/mission). Mostly funded by [individuals](https://thf-reports.s3.amazonaws.com/Financial/2019_AnnualReport_Financials.pdf). Who exactly? I wish I knew.
     2. [The Global Competitiveness Report](http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf) by [World Economic Forum](https://www.weforum.org/). Powerful community with [50-year history](https://www.weforum.org/about/history). They claim a [remarkable list](https://www.weforum.org/about/our-members-and-partners) of partners. They publish [an annual report](http://www3.weforum.org/docs/WEF_Annual_Report_18-19.pdf) on how they spend the money. However, it is unclear how much they get from each partner.
     3. [Atlas of Economic Complexity](https://atlas.cid.harvard.edu/rankings) by [Growth Lab in Harvard](https://growthlab.cid.harvard.edu/).
