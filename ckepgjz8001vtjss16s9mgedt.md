@@ -88,8 +88,7 @@ Ranges are not that simple. Ranges can be:
 
 Static range is constant predefined range that does not change when new metrics data comes in. Say, we have a cluster of 30 machines. Every machine has 16 GB of RAM. Knowing the average expected load, we could identify the normal range for the used RAM as `[1.6 GB, 14.4 GB]` (from 10% and up to 90%). That would be a perfect example of a static range. It does not depend on the number of machines or the phase of the moon.
 
-For some metrics and under certain conditions, we could define a range of normal values beforehand, without analyzing the metric data itself. Say, we have a cluster of 30 machines. Every machine has 16 GB of RAM. Knowing the expected load, we could identify the normal range for the used RAM as `[1.6 GB, 14.4 GB]` (from 10% and up to 90%). 
-However, not all metrics have a universal predefined range of possible values that make sense for any system. For those metrics, we have to evaluate them by comparison to their peers, i.e. process the whole list of scalars to define the normal range, and then process the list all over again to identify the abnormal range. We can see that the complexity here scales at least linearly with the size of the list.
+For some metrics and under certain conditions, we could define a range of normal values beforehand, without analyzing the metric data itself. However, not all metrics have a universal predefined range of possible values that make sense for any system. For those metrics, we have to evaluate them by comparison to their peers, i.e. process the whole list of scalars to define the normal range, and then process the list all over again to identify the abnormal range. We can see that the complexity here scales at least linearly with the size of the list.
 
 As a result, we see that abnormality could be identified in 2 ways:
 
