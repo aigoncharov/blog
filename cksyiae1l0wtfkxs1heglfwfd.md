@@ -171,4 +171,5 @@ Score: 4 / 9.
 ## Grand finale
 
 After interviews with 9 different well-known prestigious companies, I got 4 offers. After a week of negotiations ([here](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) is a great guide on how to do it) and hesitations, I happily decided to move to London with Facebook. I now hope for two things. First, that my story helps someone else in the middle of nowhere in a non-English-speaking country realize that they do not need to be a super extraordinary genius to get to FAANG in a major city. All they need is hard work and dedication. Second, that this is the end of a chapter, not the end of a story :) 
+
 Stay tuned for new articles by following me on [Twitter](https://twitter.com/ai_goncharov) or [LinkedIn](https://www.linkedin.com/in/aigoncharov/)! Subscribe to my [newsletter](https://blog.goncharov.page/) or [RSS](https://blog.goncharov.page/rss.xml). Drop me an [email](mailto:andrey@goncharov.page) if you have any questions.
