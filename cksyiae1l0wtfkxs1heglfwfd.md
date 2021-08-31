@@ -105,7 +105,7 @@ I passed the phone call, where I had a leetcode-medium coding challenge. Then af
 
 Score: 0 / 9.
 
-### Databaricks
+### Databricks
 
 I failed on the first coding interview. They asked me a medium-complexity leetcode-like question. I did not find the optimal solution. Well, you live, you learn. That's why it is crucial to have several interviews lined up.
 
