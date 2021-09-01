@@ -371,3 +371,5 @@ A < A | null
 As we can see, the greatest value is provided by the flags that require the most refactoring. So after enabling the most challenging and the most rewarding flags it makes next to no effort to enable them all. Especially, since the awesome TypeScript team took care of us and added another flag called **strict**. It enables all of the flags above. In Management Center we went down precisely that path. We enabled the most complex flags first and enabled all of them in the end as it was extremely small overhead.
 
 > We left flags like `noImplicitOverride`, `noImplicitReturns`, `noUncheckedIndexedAccess`, `noPropertyAccessFromIndexSignature` and other out of scope of this article because they are not managed by the `strict` uber-flag.
+
+Stay tuned for new articles by following me on [Twitter](https://twitter.com/ai_goncharov) or [LinkedIn](https://www.linkedin.com/in/aigoncharov/)! Subscribe to my [newsletter](https://blog.goncharov.page/) or [RSS](https://blog.goncharov.page/rss.xml). Drop me an [email](mailto:andrey@goncharov.page) if you have any questions.
