@@ -342,3 +342,5 @@ I must say using classes for reducers is not an original thought. [@amcdnl](http
 > If you like the idea of using classes for your reducers, you might like to do the same for your action creators. Take a look at [flux-action-class](https://github.com/aigoncharov/flux-action-class).
 
 Hopefully, you found something useful for your project. Feel free to communicate your feedback to me! I most certainly appreciate any criticism and questions.
+
+Stay tuned for new articles by following me on [Twitter](https://twitter.com/ai_goncharov) or [LinkedIn](https://www.linkedin.com/in/aigoncharov/)! Subscribe to my [newsletter](https://blog.goncharov.page/) or [RSS](https://blog.goncharov.page/rss.xml). Drop me an [email](mailto:andrey@goncharov.page) if you have any questions.
