@@ -535,4 +535,6 @@ Here is my personal list of finalists:
 
 [Here is the same list as a filtered view in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ptwI1So-BxxeGKyoMaIHlFm-AjsxjTXu0tZkkGjqlv0/edit#gid=0&fvid=188422351)
 
+Stay tuned for new articles by following me on [Twitter](https://twitter.com/ai_goncharov) or [LinkedIn](https://www.linkedin.com/in/aigoncharov/)! Subscribe to my [newsletter](https://blog.goncharov.page/) or [RSS](https://blog.goncharov.page/rss.xml). Drop me an [email](mailto:andrey@goncharov.page) if you have any questions.
+
 *Title image is based on https://www.deviantart.com/gio0989/art/World-map-wallpaper-127690139*
