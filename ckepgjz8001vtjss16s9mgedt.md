@@ -278,3 +278,5 @@ Going further, we would like to:
 3. Make the maximum number of graphs adjustable.
 
 We encourage you [try he new Management Center yourself](https://hub.docker.com/r/hazelcast/management-center/), and get back to us with your [feedback](http://slack.hazelcast.com/)! Stay tuned for the new posts with the lessons we learned a truly distributed enterprise-ready in-memory data grid.
+
+Stay tuned for new articles by following me on [Twitter](https://twitter.com/ai_goncharov) or [LinkedIn](https://www.linkedin.com/in/aigoncharov/)! Subscribe to my [newsletter](https://blog.goncharov.page/) or [RSS](https://blog.goncharov.page/rss.xml). Drop me an [email](mailto:andrey@goncharov.page) if you have any questions.
