@@ -599,3 +599,5 @@ const selectorCatsLoading = (state) => state.cats.loading
 ```
 
 Hopefully, you found something useful for your project. Feel free to communicate your feedback back to me! I most certainly appreciate any criticism and questions.
+
+Stay tuned for new articles by following me on [Twitter](https://twitter.com/ai_goncharov) or [LinkedIn](https://www.linkedin.com/in/aigoncharov/)! Subscribe to my [newsletter](https://blog.goncharov.page/) or [RSS](https://blog.goncharov.page/rss.xml). Drop me an [email](mailto:andrey@goncharov.page) if you have any questions.
