@@ -150,7 +150,7 @@ Luckily, it was not the end of the story. I did not stop applying for various va
 
 After a month of preparation, I met the team over 4 interviews. 2 medium leetcodes, one system design, and one coding task that I would describe as application/API design. The last one presented me with a vague list of business requirements. I had to clarify them, set meaningful constraints, and then code a class implementing the logic. In the end, they loved my algorithms, my application/API design, but did not meet expectations with my system design skills. If only a guy from Uber could have called and told them about my mad system design skills. It could have been the end of the story, but it was far from over. I auditioned for the backend role in Cambridge, and the guys thought that even though I lacked the necessary system design skills for their team, I still could be a good match for a frontend role. The thing was that they did not have any frontend roles in Cambridge. I had another call with a recruiter, and she redirected me to... surprise-surprise, Germany! There and back again.
 
-They set another loop on interviews. This time much shorter. As far as I remember, it was only a single medium leetcode and another system design. This time they loved it and I got an offer. Offer for a middle-level position. Still counts as an offer though, doesn't it? 
+They set another loop on interviews. This time much shorter. As far as I remember, it was only a single medium leetcode and another system design. This time they loved it and I got an offer. Offer for a middle-level position. At that moment I started doubting my previous "senior" titles.
 
 > Tip #8. Be proactive and talk to your recruiter about the level you are interviewing for. Make convincing arguments, share that you have interviews with other companies for a higher level. The bottom line, do anything to be put in a loop for a higher position.
 
@@ -160,7 +160,7 @@ Score: 2 / 9.
 
 ### Google
 
-I received a standard FAANG interview package. One phone screener with a medium leetcode. After 2 weeks of prep, an exhausting day with 5 interviews - 1 behavioral, 1 system design, 3 algorithms. Each algorithmic interview was an easy leetcode followed up by a medium leetcode. System design and behavioral were canonical. I got positive feedback. Positive feedback and approval of the committee! Yes, before you get an offer you need to go through a team matching process. To get there, first, some mysterious committee needs to approve your level. In my case, it was L4 - yet another middle level. Remember, tip #8? I wish I knew it back then.
+I received a standard FAANG interview package. One phone screener with a medium leetcode. After 2 weeks of prep, an exhausting day with 5 interviews - 1 behavioral, 1 system design, 3 algorithms. Each algorithmic interview was an easy leetcode followed up by a medium leetcode. System design and behavioral were canonical. I got positive feedback. Positive feedback and approval of the committee! Yes, before you get an offer you need to go through a team matching process. To get there, first, some mysterious committee needs to approve your level. In my case, it was L4 - yet another middle level. My doubts in my previous so-called seniority doubled in size.
 
 Score: 3 / 9.
 
