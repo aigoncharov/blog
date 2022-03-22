@@ -59,7 +59,7 @@ I am not a rock star academic turning the world of science upside down, so my on
 
 ## Not every Global Talent is the same
 
-When you apply for TechNation's endorsement, you have to choose if you apply as an Exceptional Promise or an Exceptional Leader. They have [almost the same requirements](https://technation.io/visa-tech-nation-visa-guide/#eligibility-criteria), but for every criteria you have to match you need less significant proof for the Exceptional Promise. The visa gives you the same rights, but you get your ILR in 5 years instead of 3 with Exceptional Promise. As a result, you get your citizenship in 6 years instead of 5.
+When you apply for TechNation's endorsement, you have to choose if you apply as an Exceptional Promise or an Exceptional Talent. They have [almost the same requirements](https://technation.io/visa-tech-nation-visa-guide/#eligibility-criteria), but for every criteria you have to match you need less significant proof for the Exceptional Promise. The visa gives you the same rights, but you get your ILR in 5 years instead of 3 with Exceptional Promise. As a result, you get your citizenship in 6 years instead of 5.
 
 Summing up, here is a table highlighting key factors for different visas:
 
