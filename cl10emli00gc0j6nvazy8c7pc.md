@@ -200,4 +200,6 @@ TechNation offers a [fast track option](https://technation.io/visa-tech-nation-v
 
 Many thanks to [Vitali Zaidman](https://twitter.com/vzaidman) who went through the process himself earlier and gave me crucial pointers and advice.
 
-P.S. Let's stay in touch! [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [newsletter](https://blog.goncharov.page/), [RSS](https://blog.goncharov.page/rss.xml), [email](mailto:andrey@goncharov.page) - pick your poison. Feel free to drop me a DM with any questions.
+> Check out my [new guide on the Global Talent visa](https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals) with concrete document examples on Gumroad!
+
+P.S. Let's stay in touch! [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [newsletter](https://blog.goncharov.page/), [RSS](https://blog.goncharov.page/rss.xml), [Instagram](https://www.instagram.com/aigoncharov/),  [email](mailto:andrey@goncharov.page) - pick your poison. Feel free to drop me a DM with any questions.
