@@ -4,6 +4,28 @@ So, you have decided to move your ass someplace else, seeking a better life. The
 
 > If you are more comfortable reading in Russian check out [this article on habr.com](https://habr.com/ru/post/510610/).
 
+## Hiya!
+
+ℹ️  My name is Andrey G. I am a software engineer from London, UK. Primarily, I am a full-stack web developer (think React, Angular, Node.js), but I also have a keen interest in low-level stuff (hello, C) and finance (love-hate relationship with Pandas).
+
+> G. stands for Goncharov. I wanted to save you the pain of reading my Cyrillic last name.
+
+💼 Full-stack (web, blockchain, and even a bit of embedded) at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/))  ➡️  Headed front-end development at [Hazelcast](https://hazelcast.com/)  ➡️  Front-end at [Bricks](https://www.thebricks.com/) (next-gen spreadsheet web app) ➡️  Full-time maintainer of [Flipper](https://fbflipper.com/) at [Meta (ex-Facebook)](https://www.facebook.com/).
+
+📝 I write about tech in my [small blog](https://blog.goncharov.page/). 
+
+🎤 Occasionally, I [speak at conferences](https://github.com/aigoncharov/talks).
+
+🇬🇧 I help people [get their Global Talent visas](https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals).
+
+🎓 I am currently pursuing a [Master's in Computer Science (OMSCS) from Georgia Tech](https://omscs.gatech.edu/).
+
+❤️ I love math, physics, rational thinking, and figuring out how things work. In my spare time, I enjoy hiking, snowboarding, boxing, and weight lifting.
+
+📫 Stay in touch on [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), and [Instagram](https://www.instagram.com/aigoncharov/). Drop me a DM on [Matrix](https://matrix.org/) - @andrey:goncharov.ai.
+
+🧙 [Buy me a coffee](https://www.buymeacoffee.com/aigoncharov) to support my endeavours!
+
 ## Criteria
 
 Before we do the measurement itself, we need to know what to measure. So what do we expect from our new home?
@@ -535,6 +557,8 @@ Here is my personal list of finalists:
 
 [Here is the same list as a filtered view in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ptwI1So-BxxeGKyoMaIHlFm-AjsxjTXu0tZkkGjqlv0/edit#gid=0&fvid=188422351)
 
-Stay tuned for new articles by following me on [Twitter](https://twitter.com/ai_goncharov) or [LinkedIn](https://www.linkedin.com/in/aigoncharov/)! Subscribe to my [newsletter](https://blog.goncharov.page/) or [RSS](https://blog.goncharov.page/rss.xml). Drop me an [email](mailto:andrey@goncharov.page) if you have any questions.
+> Check out my [new guide on the Global Talent visa](https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals) with concrete document examples on Gumroad!
+
+P.S. Let's stay in touch! [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [newsletter](https://blog.goncharov.ai/newsletter), [RSS](https://blog.goncharov.page/rss.xml), [Instagram](https://www.instagram.com/aigoncharov/),  [Instagram](https://www.instagram.com/aigoncharov/) - pick your poison. Feel free to drop me a DM with any questions.
 
 *Title image is based on https://www.deviantart.com/gio0989/art/World-map-wallpaper-127690139*
