@@ -7,9 +7,27 @@ I'll tell you a little about my background, share several tips and tricks that h
 
 ## Background
 
-I guess I shed some light on this already, didn't I? We have a guy in his late twenties from the middle of nowhere in Russia. In fact, it is Voronezh, Russia, but have you ever heard about it? My point exactly. 6-ish years of professional commercial experience. Some degree in CS. For simplicity, let's call it a Master's. It is not a true Master's, but this article is not about the system of education in Russia, right? 4 out of these 6 years I spent working at IT outsourcing companies. For the rest of 2 years, I worked remotely for US-based startups. I have a couple of [small libraries on GH](https://github.com/aigoncharov). Try to do conference talks from time to time. One last thing I tried to leverage to make my CV stand out is this blog. It's, let's face it, tiny, but better than nothing. Hopefully, it shows the world my love for tech. Oh, yeah, I am also pursuing my proper Master's from Georgia Tech online. I think this nicely wraps up my life story. By the way, my name is Andrey G. Nice to meet you! 
+Hiya!
 
-> G. stands for Goncharov. I wanted to spare you the pain of trying to read it. 
+ℹ️  My name is Andrey G. I am a software engineer from London, UK. Primarily, I am a full-stack web developer (think React, Angular, Node.js), but I also have a keen interest in low-level stuff (hello, C) and finance (love-hate relationship with Pandas).
+
+> G. stands for Goncharov. I wanted to save you the pain of reading my Cyrillic last name.
+
+💼 Full-stack (web, blockchain, and even a bit of embedded) at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/))  ➡️  Headed front-end development at [Hazelcast](https://hazelcast.com/)  ➡️  Front-end at [Bricks](https://www.thebricks.com/) (next-gen spreadsheet web app) ➡️  Full-time maintainer of [Flipper](https://fbflipper.com/) at [Meta (ex-Facebook)](https://www.facebook.com/).
+
+📝 I write about tech in my [small blog](https://blog.goncharov.page/). 
+
+🎤 Occasionally, I [speak at conferences](https://github.com/aigoncharov/talks).
+
+🇬🇧 I help people [get their Global Talent visas](https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals).
+
+🎓 I am currently pursuing a [Master's in Computer Science (OMSCS) from Georgia Tech](https://omscs.gatech.edu/).
+
+❤️ I love math, physics, rational thinking, and figuring out how things work. In my spare time, I enjoy hiking, snowboarding, boxing, and weight lifting.
+
+📫 Stay in touch on [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), and [Instagram](https://www.instagram.com/aigoncharov/). Drop me a DM on [Matrix](https://matrix.org/) - @andrey:goncharov.ai.
+
+🧙 [Buy me a coffee](https://www.buymeacoffee.com/aigoncharov) to support my endeavours!
 
 I like thinking of myself as a bit of an adventurer. One adventure I nourished in my mind for a long time was to move to another country. A year ago, this desire matured into concrete actions. I did a [research and outlined a list of countries for the relocation](https://blog.goncharov.page/immigration-with-numbers). Once I had the list of countries identified, I decided to give myself a break until the end of the year. At the end of January, after a week of snowboarding, I felt energized enough to get back to the relocation mission. 
 
@@ -174,4 +192,6 @@ Score: 4 / 9.
 
 After interviews with 9 different well-known prestigious companies, I got 4 offers. After a week of negotiations ([here](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) is a great guide on how to do it) and hesitations, I happily decided to move to London with Facebook. I now hope for two things. First, that my story helps someone else in the middle of nowhere in a non-English-speaking country realize that they do not need to be a super extraordinary genius to get to FAANG in a major city. All they need is hard work and dedication. Second, that this is the end of a chapter, not the end of a story :) 
 
-Stay tuned for new articles by following me on [Twitter](https://twitter.com/ai_goncharov) or [LinkedIn](https://www.linkedin.com/in/aigoncharov/)! Subscribe to my [newsletter](https://blog.goncharov.page/) or [RSS](https://blog.goncharov.page/rss.xml). Drop me an [email](mailto:andrey@goncharov.page) if you have any questions.
+> Check out my [new guide on the Global Talent visa](https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals) with concrete document examples on Gumroad!
+
+P.S. Let's stay in touch! [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [newsletter](https://blog.goncharov.ai/newsletter), [RSS](https://blog.goncharov.page/rss.xml), [Instagram](https://www.instagram.com/aigoncharov/),  [Instagram](https://www.instagram.com/aigoncharov/) - pick your poison. Feel free to drop me a DM with any questions.
