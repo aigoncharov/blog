@@ -202,4 +202,4 @@ Many thanks to [Vitali Zaidman](https://twitter.com/vzaidman) who went through t
 
 > Check out my [new guide on the Global Talent visa](https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals) with concrete document examples on Gumroad!
 
-P.S. Let's stay in touch! [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [newsletter](https://blog.goncharov.page/), [RSS](https://blog.goncharov.page/rss.xml), [Instagram](https://www.instagram.com/aigoncharov/),  [email](mailto:andrey@goncharov.page) - pick your poison. Feel free to drop me a DM with any questions.
+P.S. Let's stay in touch! [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [newsletter](https://blog.goncharov.ai/newsletter), [RSS](https://blog.goncharov.page/rss.xml), [Instagram](https://www.instagram.com/aigoncharov/),  [Instagram](https://www.instagram.com/aigoncharov/) - pick your poison. Feel free to drop me a DM with any questions.
