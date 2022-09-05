@@ -9,7 +9,27 @@ I'll tell you:
 
 ## Who
 
-Hi! My name is Andrey. I am a senior software engineer at Facebook. Some degree with a moderately complex cyrillic name in CS from a Russian uni. For simplicity, let's call it a Master's equivalent. 4 years I spent working at IT outsourcing companies. 2 more years I worked remotely for US-based startups. Now I am excited to contribute to [Flipper](https://fbflipper.com/) on behalf of Facebook and call it my full-time job. I have a couple of [small libraries on GH](https://github.com/aigoncharov). Try to do conference [talks](https://github.com/aigoncharov/talks) from time to time. Occasionally, I blog about tech. Oh, yeah, I am also pursuing my proper Master's from Georgia Tech online, and that's exactly why you are reading this post.
+Hiya!
+
+ℹ️  My name is Andrey G. I am a software engineer from London, UK. Primarily, I am a full-stack web developer (think React, Angular, Node.js), but I also have a keen interest in low-level stuff (hello, C) and finance (love-hate relationship with Pandas).
+
+> G. stands for Goncharov. I wanted to save you the pain of reading my Cyrillic last name.
+
+💼 Full-stack (web, blockchain, and even a bit of embedded) at software consultancies ([DSR](https://en.dsr-corporation.com/), [DataArt](https://www.dataart.com/))  ➡️  Headed front-end development at [Hazelcast](https://hazelcast.com/)  ➡️  Front-end at [Bricks](https://www.thebricks.com/) (next-gen spreadsheet web app) ➡️  Full-time maintainer of [Flipper](https://fbflipper.com/) at [Meta (ex-Facebook)](https://www.facebook.com/).
+
+📝 I write about tech in my [small blog](https://blog.goncharov.page/). 
+
+🎤 Occasionally, I [speak at conferences](https://github.com/aigoncharov/talks).
+
+🇬🇧 I help people [get their Global Talent visas](https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals).
+
+🎓 I am currently pursuing a [Master's in Computer Science (OMSCS) from Georgia Tech](https://omscs.gatech.edu/).
+
+❤️ I love math, physics, rational thinking, and figuring out how things work. In my spare time, I enjoy hiking, snowboarding, boxing, and weight lifting.
+
+📫 Stay in touch on [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), and [Instagram](https://www.instagram.com/aigoncharov/). Drop me a DM on [Matrix](https://matrix.org/) - @andrey:goncharov.ai.
+
+🧙 [Buy me a coffee](https://www.buymeacoffee.com/aigoncharov) to support my endeavours!
 
 ## What
 
@@ -111,4 +131,6 @@ Here are some useful links:
 - https://www.reddit.com/r/OMSCS/
 - https://omscentral.com/courses
 
-P.S. Let's stay in touch! Here are my [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [newsletter](https://blog.goncharov.page/), [RSS](https://blog.goncharov.page/rss.xml), [email](mailto:andrey@goncharov.page). Whatever works for you! Feel free to drop me a DM with any questions.
+> Check out my [new guide on the Global Talent visa](https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals) with concrete document examples on Gumroad!
+
+P.S. Let's stay in touch! [Twitter](https://twitter.com/ai_goncharov), [LinkedIn](https://www.linkedin.com/in/aigoncharov/), [newsletter](https://blog.goncharov.ai/newsletter), [RSS](https://blog.goncharov.page/rss.xml), [Instagram](https://www.instagram.com/aigoncharov/),  [Instagram](https://www.instagram.com/aigoncharov/) - pick your poison. Feel free to drop me a DM with any questions.
