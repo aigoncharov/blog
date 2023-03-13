@@ -1,8 +1,8 @@
 ---
-title: "How I burnt out in FAANG, but it was not about the job"
+title: "How I burnt out in FAANG, but my job was not the problem"
 datePublished: Mon Mar 13 2023 20:52:20 GMT+0000 (Coordinated Universal Time)
 cuid: clf7aw5pu000109lj11bcdqpc
-slug: how-i-burnt-out-in-faang-but-it-was-not-about-the-job
+slug: how-i-burnt-out-in-faang-but-my-job-was-not-the-problem
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678739966452/a375187f-5b12-416f-acb8-621307116bc3.jpeg
 tags: programming, general-advice, burnout
 
